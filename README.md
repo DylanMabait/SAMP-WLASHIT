@@ -4,5 +4,5 @@
 
 # CMD 
 
-git clone https://github.com/DylanMabait/SAMP-WLASHIT.git && cd SAMP-DDOS && python3 SAMP-WLASHIT1.5.py
+git clone https://github.com/DylanMabait/SAMP-WLASHIT.git && cd SAMP-DDOS1.5 && python3 SAMP-WLASHIT1.5.py
 
